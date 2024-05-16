@@ -1,0 +1,5 @@
+﻿  テトリス2.c
+C:\Users\ss180\OneDrive\デスクトップ\プログラミング関連\テトリス二号機\テトリス2.c(14,18): warning C4305: '初期化中': 'int' から 'const char' へ切り詰めます。
+C:\Users\ss180\OneDrive\デスクトップ\プログラミング関連\テトリス二号機\テトリス2.c(15,20): warning C4305: '初期化中': 'int' から 'const char' へ切り詰めます。
+C:\Users\ss180\OneDrive\デスクトップ\プログラミング関連\テトリス二号機\テトリス2.c(52,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  テトリス二号機.vcxproj -> C:\Users\ss180\OneDrive\デスクトップ\プログラミング関連\テトリス二号機\x64\Debug\テトリス二号機.exe
